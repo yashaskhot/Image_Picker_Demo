@@ -522,6 +522,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\ykuk9\\StudioProjects\\image_picker\\Image_Picker_Demo\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "108,112",
+                        "startColumns": "4,4",
+                        "startOffsets": "6436,6617",
+                        "endLines": "111,114",
+                        "endColumns": "12,12",
+                        "endOffsets": "6612,6781"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ykuk9\\.gradle\\caches\\transforms-3\\3522d6b74be37cadbfcf43181c15f5f3\\transformed\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,19,23,34,51",
@@ -575,25 +594,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ykuk9\\StudioProjects\\image_picker\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "108,112",
-                        "startColumns": "4,4",
-                        "startOffsets": "6436,6617",
-                        "endLines": "111,114",
-                        "endColumns": "12,12",
-                        "endOffsets": "6612,6781"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ykuk9\\.gradle\\caches\\transforms-3\\65e344e8b472592fde72c0e5f8c3604f\\transformed\\jetified-startup-runtime-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -616,7 +616,7 @@
             "outputFile": "com.example.image.app-merged_res-22:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\ykuk9\\StudioProjects\\image_picker\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\ykuk9\\StudioProjects\\image_picker\\Image_Picker_Demo\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

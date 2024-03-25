@@ -48,7 +48,7 @@ class _homeState extends State<home> {
                 : FlutterLogo(size: 160),
           ),
           Text(
-            'Developed by Yashas Khot - Pradhanmantri bae dilao yojana laabarthi',
+            'Developed by Yashas Khot - TE IT',
             style: TextStyle(fontSize: 14),
           ),
           SizedBox(height: 30.0),

@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:2:5-32:19
-MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
-MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:2:5-32:19
+MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ykuk9\.gradle\caches\transforms-3\3522d6b74be37cadbfcf43181c15f5f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ykuk9\.gradle\caches\transforms-3\3522d6b74be37cadbfcf43181c15f5f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.10.1] C:\Users\ykuk9\.gradle\caches\transforms-3\f81db704e41ac1e34a11a663dc42397b\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
@@ -16,15 +16,15 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yk
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.10.1] C:\Users\ykuk9\.gradle\caches\transforms-3\f81db704e41ac1e34a11a663dc42397b\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-MERGED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ykuk9\StudioProjects\image_picker\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ykuk9\.gradle\caches\transforms-3\5938a336ad13686470e93a31aa26c0b6\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.7.2] C:\Users\ykuk9\.gradle\caches\transforms-3\03e7f70baaa0091849a980c25d1a8610\transformed\jetified-activity-1.7.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ykuk9\.gradle\caches\transforms-3\1019fd8b46cdef0a46e5025f27dbbaeb\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
@@ -48,43 +48,43 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ykuk9\.gradle\ca
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ykuk9\.gradle\caches\transforms-3\45d163c9828f89cae3dedcca9a0dfc26\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ykuk9\.gradle\caches\transforms-3\dd60434b8e61e719d94f99a75e0f4361\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ykuk9\.gradle\caches\transforms-3\a3923127bcd29e7b8fb740799c847442\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:1-44:12
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:1:11-69
 queries
-ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:38:5-43:15
+ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:38:5-43:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:39:9-42:18
+ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:39:9-42:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:40:13-72
+ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:40:13-72
 	android:name
-		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:40:21-70
+		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:40:21-70
 data
-ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:41:13-50
+ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:41:13-50
 	android:mimeType
-		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml:41:19-48
+		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml:41:19-48
 uses-sdk
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
-MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ykuk9\StudioProjects\image_picker\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ykuk9\StudioProjects\image_picker\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
+MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ykuk9\.gradle\caches\transforms-3\5938a336ad13686470e93a31aa26c0b6\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ykuk9\.gradle\caches\transforms-3\5938a336ad13686470e93a31aa26c0b6\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.7.2] C:\Users\ykuk9\.gradle\caches\transforms-3\03e7f70baaa0091849a980c25d1a8610\transformed\jetified-activity-1.7.2\AndroidManifest.xml:20:5-44
@@ -131,34 +131,34 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ykuk9\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ykuk9\.gradle\caches\transforms-3\dd60434b8e61e719d94f99a75e0f4361\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ykuk9\.gradle\caches\transforms-3\a3923127bcd29e7b8fb740799c847442\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ykuk9\.gradle\caches\transforms-3\a3923127bcd29e7b8fb740799c847442\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml:6:5-66
+ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\android\app\src\debug\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\android\app\src\debug\AndroidManifest.xml:6:22-64
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 	android:exported
-		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 	android:resource
-		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 	android:name
-		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+		ADDED from [:image_picker_android] C:\Users\ykuk9\StudioProjects\image_picker\Image_Picker_Demo\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ykuk9\.gradle\caches\transforms-3\3522d6b74be37cadbfcf43181c15f5f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required

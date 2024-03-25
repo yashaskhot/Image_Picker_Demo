@@ -57,6 +57,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\ykuk9\\StudioProjects\\image_picker\\Image_Picker_Demo\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "108,112",
+                        "startColumns": "4,4",
+                        "startOffsets": "6436,6617",
+                        "endLines": "111,114",
+                        "endColumns": "12,12",
+                        "endOffsets": "6612,6781"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ykuk9\\.gradle\\caches\\transforms-3\\3522d6b74be37cadbfcf43181c15f5f3\\transformed\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,19,23,34,51",
@@ -107,25 +126,6 @@
                         "startOffsets": "5494",
                         "endColumns": "42",
                         "endOffsets": "5532"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ykuk9\\StudioProjects\\image_picker\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "108,112",
-                        "startColumns": "4,4",
-                        "startOffsets": "6436,6617",
-                        "endLines": "111,114",
-                        "endColumns": "12,12",
-                        "endOffsets": "6612,6781"
                     }
                 },
                 {
